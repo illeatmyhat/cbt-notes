@@ -1,8 +1,8 @@
-{ siteTitle = "Neuron Template"
-, author = Some "John Doe"
-, siteBaseUrl = Some "https://srid.github.io/neuron-template"
+{ siteTitle = "Notes on Cognitive Behavioral Therapy"
+, author = Some "I'll Eat My Hat"
+, siteBaseUrl = Some "https://illeatmyhat.github.io/cbt-notes"
 -- List of themes: https://neuron.zettel.page/2014601.html
 , theme = "teal"
-, editUrl = Some "https://github.com/srid/neuron-template/edit/master/"
+, editUrl = Some "https://github.com/illeatmyhat/cbt-notes/edit/master/"
 , mathJaxSupport = False
 }
